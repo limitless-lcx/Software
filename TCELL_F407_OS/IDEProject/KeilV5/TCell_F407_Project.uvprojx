@@ -1092,7 +1092,7 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>OS_Source</GroupName>
+          <GroupName>OS_Kernel</GroupName>
           <Files>
             <File>
               <FileName>clock.c</FileName>
